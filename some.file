@@ -3,4 +3,9 @@ Two line from Githaub
 "QA!" 
 "java marathon start." 
 "Git" 
+<<<<<<< HEAD
 six line
+=======
+
+"Line to branch" 
+>>>>>>> ex1
